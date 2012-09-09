@@ -2,11 +2,17 @@ Apple Raspberry Cider
 =====================
 
 Recipe Type: Extract
+
 Yeast: Nottingham (Danstar E491)
+
 Original Gravity: 1.052
+
 Final Gravity: 1.008
+
 Batch Size (Gallons): 6
+
 Primary Fementaion: 30
+
 Secondary Fementaion: 30
 
 Ingredients
