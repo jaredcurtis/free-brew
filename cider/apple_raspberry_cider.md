@@ -28,19 +28,23 @@ Ingredients
 * 2 lbs lactose 
 * Nottingham Yeast (Danstar E491)
 * 3/4 cup corn sugar (priming)
+* 6 oz fresh or frozen raspberries
+* 2 fresh apples
 
 Directions
 ----------
 
-1. Steap tea for 5-6 minutes in boiling water
+1. Steep tea for 5-6 minutes in boiling water
 2. Disolve sugar in hot tea
 3. Add sugar and tea solution to carboy
 4. Add juice all juice
 7. Fill to 6 gallons with cold water
 8. Pitch yeast
 9. Ferment as scheduled
-10. Sweeten with lactose
-11. Bottle with priming sugar for 7-10 days
+10. Rack to secondary ontop of apples and rasperries
+11. Ferment as scheduled
+12. Sweeten with lactose
+13. Bottle with priming sugar for 7-10 days
 
 License
 -------
